@@ -4,7 +4,7 @@ Examples of use of :snake: [DDoS submodule](DDos/)
 ## Install
 
 ```sh
-`pip3 install DDos`
+pip3 install DDos
 ```
 
 ### Usage
