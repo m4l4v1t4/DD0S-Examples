@@ -23,7 +23,7 @@ ddos
 
 #### <abbr title="Textual User Interface" lang="en">TUI</abbr> - Console
 
-Using 1º example script `exemplo-1.py`:
+Using 1º example script [exemplo-1.py](exemplo-1.py):
 ```sh
 python3 exemplo-1.py
 ```
