@@ -1,5 +1,5 @@
 # DD0S-Examples
-Examples of use of :snake: [DDoS submodule](DDos/)
+Examples of use of :snake: [DDoS submodule](https://github.com/donno2048/DDos)
 
 ## Install
 
